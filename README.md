@@ -2,4 +2,4 @@
 測試
 ./cc.html
 ./index.html
-yes
+./2022-09_600x748.png
